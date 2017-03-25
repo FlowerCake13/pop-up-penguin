@@ -12,146 +12,146 @@ body {
     background-image:url('../penguin_pngs/penguin_title.png');
 }
 
-.penguin1 {
+#penguin1 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_1.png');
 }
 
-.penguin1:hover {
+#penguin1:hover {
     background-image:url('../penguin_pngs/mound_1_hover.png');
     cursor: pointer;
 }
 
-.penguin1:active {
+#penguin1:active {
     background-image:url('../penguin_pngs/penguin_1.png');
 }
 
-.penguin2 {
+#penguin2 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_2.png');
 }
 
-.penguin2:hover {
+#penguin2:hover {
     background-image:url('../penguin_pngs/mound_2_hover.png');
     cursor: pointer;
 }
 
-.penguin2:active {
+#penguin2:active {
     background-image:url('../penguin_pngs/penguin_2.png');
 }
 
-.penguin3 {
+#penguin3 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_3.png');
 }
 
-.penguin3:hover {
+#penguin3:hover {
     background-image:url('../penguin_pngs/mound_3_hover.png');
     cursor: pointer;
 }
 
-.penguin3:active {
+#penguin3:active {
     background-image:url('../penguin_pngs/penguin_3.png');
 }
 
-.penguin4 {
+#penguin4 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_4.png');
 }
 
-.penguin4:hover {
+#penguin4:hover {
     background-image:url('../penguin_pngs/mound_4_hover.png');
     cursor: pointer;
 }
 
-.penguin4:active {
+#penguin4:active {
     background-image:url('../penguin_pngs/penguin_4.png');
 }
 
-.penguin5 {
+#penguin5 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_5.png');
 }
 
-.penguin5:hover {
+#penguin5:hover {
     background-image:url('../penguin_pngs/mound_5_hover.png');
     cursor: pointer;
 }
 
-.penguin5:active {
+#penguin5:active {
     background-image:url('../penguin_pngs/penguin_5.png');
 }
 
-.penguin6 {
+#penguin6 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_6.png');
 }
 
-.penguin6:hover {
+#penguin6:hover {
     background-image:url('../penguin_pngs/mound_6_hover.png');
     cursor: pointer;
 }
 
-.penguin6:active {
+#penguin6:active {
     background-image:url('../penguin_pngs/penguin_6.png');
 }
 
-.penguin7 {
+#penguin7 {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('../penguin_pngs/mound_7.png');
 }
 
-.penguin7:hover {
+#penguin7:hover {
     background-image:url('../penguin_pngs/mound_7_hover.png');
     cursor: pointer;
 }
 
-.penguin7:active {
+#penguin7:active {
     background-image:url('../penguin_pngs/penguin_7.png');
 }
 
-.penguin8 {
+#penguin8 {
 	width: 200px;
 	height: 200px;
 	float: left;
 	background-image:url('../penguin_pngs/mound_8.png');
 }
 
-.penguin8:hover {
+#penguin8:hover {
     background-image:url('../penguin_pngs/mound_1_hover.png');
     cursor: pointer;
 }
 
-.penguin8:active {
+#penguin8:active {
     background-image:url('../penguin_pngs/penguin_8.png');
 }
 
-.yeti{
+#yeti{
     width: 200px;
     height: 200px;
     float: left;
 	background-image: url('../penguin_pngs/mound_9.png'); 
 }
 
-.yeti:hover {
+#yeti:hover {
     background-image:url('../penguin_pngs/mound_9_hover.png');
     cursor: pointer;
 }
 
-.yeti:active {
+#yeti:active {
     background-image:url('../penguin_pngs/yeti.png');
 }
