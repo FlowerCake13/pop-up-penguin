@@ -16,11 +16,13 @@ var i;
 for(i = 0; i < newElements.length; i++){
 	//console.log(gamehold[i])
 	if (newElements[i].tagName == "DIV") {
-		console.log(newElements[i].id)
+		//console.log(newElements[i].id)
 		if (newElements[i].id != "title") {
-			console.log(newElements[i]);
+			//console.log(newElements[i]);
 			newElements[i].id = "penguin" + i;
+			newElements[8].id = "penguin"+random;
 			newElements[random].id = "yeti"; 
+			//console.log(newElements[random])
 		}
 	}
 }
