@@ -132,13 +132,30 @@ body {
 }
 
 #penguin8:hover {
-    background-image:url('../penguin_pngs/mound_1_hover.png');
+    background-image:url('../penguin_pngs/mound_8_hover.png');
     cursor: pointer;
 }
 
 #penguin8:active {
     background-image:url('../penguin_pngs/penguin_8.png');
 }
+
+#penguin9 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image:url('../penguin_pngs/mound_3.png');
+}
+
+#penguin9:hover {
+    background-image:url('../penguin_pngs/mound_3_hover.png');
+    cursor: pointer;
+}
+
+#penguin9:active {
+    background-image:url('../penguin_pngs/penguin_3.png');
+}
+
 
 #yeti{
     width: 200px;
